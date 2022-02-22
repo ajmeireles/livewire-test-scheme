@@ -2,9 +2,15 @@
 
 O objetivo deste teste é validar expressamente o seu conhecimento e aptidão necessária.
 
+**Prazo Objetivo: 2h00**
+
+---
+
 #### Remuneração
 
 Para que o teste seja remunerado você deve **gravar todo processo de criação do teste sem cortes.** - conforme explicação dada via e-mail.
+
+---
 
 ##### Stack
 
@@ -12,6 +18,8 @@ Para que o teste seja remunerado você deve **gravar todo processo de criação 
 - PHP 8.1
 - Livewire
 - AlpineJs
+
+---
 
 ##### Requerimentos
 
@@ -24,11 +32,15 @@ Para que o teste seja remunerado você deve **gravar todo processo de criação 
 - Laravel Breeze – **obrigatório**
 - **Todo código deve ser escrito em inglês e seguindo a PSR12**
 
+---
+
 ##### Telas de Autenticação (Baseado em *Laravel Breeze*)
 
 - Registro, com: nome, e-mail e senha
 - Login
 - Recuperação de senha **(se via Docker, use MailHog)**
+
+---
 
 ##### Preparação
 
@@ -41,6 +53,8 @@ Para que o teste seja remunerado você deve **gravar todo processo de criação 
 4. Crie um relacionamento entre a tabela `limits` e a tabela `user`
 
 5. Crie seeders e factories para a tabela `limits`, afim de gerar dados falsos.
+
+---
 
 ##### Funcionalidades Esperadas:
 
@@ -61,6 +75,7 @@ https://baconipsum.com/api/?type=meat-and-filler
 
 8. **Enquanto o botão não for clicado** não deve ser exibido nenhum texto.
 
+---
 
 ##### Outros (observações):
 
@@ -71,6 +86,8 @@ https://baconipsum.com/api/?type=meat-and-filler
 2. Os testes devem ser conceituados sobre o esquema de testes do Livewire.
 
 3. Os testes **devem validar sucessos e também falhas.**
+
+---
 
 ##### Entrega do Teste:
 
