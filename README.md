@@ -74,4 +74,4 @@ https://baconipsum.com/api/?type=meat-and-filler
 
 ##### Entrega do Teste:
 
-- **Hospede o teste em um repositório do GitHub e envie o link do repositório e também o link da gravação do teste (conforme explicado na sessão “Remuneração”).** Lembre-se que tudo será levado em conta a ser analisado.
+- **Hospede o teste em um repositório do GitHub e envie o link do repositório e também o link da gravação do teste (conforme explicado na sessão “Remuneração”).**
