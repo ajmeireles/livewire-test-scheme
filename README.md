@@ -38,7 +38,7 @@ Para que o teste seja remunerado você deve **gravar todo processo de criação 
 
 - Registro, com: nome, e-mail e senha
 - Login
-- Recuperação de senha **(se via Docker, use MailHog)**
+- Recuperação de senha **(use o serviço do MailHog, oferecido pelo Laravel Sail, docker)**
 
 ---
 
