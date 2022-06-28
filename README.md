@@ -78,8 +78,6 @@ O objetivo deste teste é validar expressamente o seu conhecimento e aptidão ne
 
 ### Finalização e Validação
 
-**Obs.: Esta etapa só deve ser realizada caso você possua conhecimento suficiente.**
-
 1. Crie um teste de unidade para validar a funcionalidade da aplicação.
 
 2. Crie um teste de unidade para validar o relacionamento entre `user` e `limits`
